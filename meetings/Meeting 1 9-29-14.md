@@ -1,6 +1,6 @@
 # Software Development Club Meeting 1: 9/29/14
 
-### Introduction
+### NIGGA NIGGA NIGGA Introduction
 
 - Everyone introduce themselves 
 - Suppose you want to send an email to the entire school. How do you do it?
