@@ -54,8 +54,10 @@ potentially be added as necessary.
 - Apache, PHP, and MySQL 
 	- [XAMPP](https://www.apachefriends.org/index.html)
 
-## Team meetings
-
-- Evaluate skills 
-- Make plans
-- Assign responsibilities
+## To do for club members
+ 
+- Make a [Github account](https://github.com/join) and email the username to uhssdc@gmail.com
+- Think about what role you want to take in the development in the redbook app from the teams above. If you have time, you could start learning from code academy:
+  - [HTML/CSS](http://www.codecademy.com/tracks/web)
+  - [Javascript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery) (a Javascript library we'll be using)
+  - [PHP](http://www.codecademy.com/tracks/php)
