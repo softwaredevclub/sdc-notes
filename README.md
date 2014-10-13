@@ -27,6 +27,12 @@ By the end, we should have a clear enough idea of what the product will look lik
 	- Splitting into teams to discuss ideas and divide work among members
 - Starting development
 
+## [Meeting 3](meetings/Meeting 3 10-13-14.md) (10/13/14)
+
+- Figure out what everyone is interested in and can do
+- Set up development enviroments
+- Quick introductions to the web, git, and Laravel
+
 ## Future Meetings
 
 - Stand-up: everyone says what they've been working on, what's impeding their progress, and what they plan on working on next
