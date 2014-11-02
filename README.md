@@ -35,6 +35,12 @@ By the end, we should have a clear enough idea of what the product will look lik
 
 ## Future Meetings
 
+- Figure out what people can do
+- Split up into groups based on interest
+- Work on development
+
+## Future Future Meetings
+
 - Stand-up: everyone says what they've been working on, what's impeding their progress, and what they plan on working on next
 - Break into teams to discuss progress on each team's goals
 - Work on development
